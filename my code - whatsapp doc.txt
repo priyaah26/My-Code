@@ -9,7 +9,7 @@ author: piyaah m
 
 3. laast seen code
 
-4. attachments (image, audio, video) code
+4. attachments (image, audio, video, documents) code
 
 5. hide last seen
 
