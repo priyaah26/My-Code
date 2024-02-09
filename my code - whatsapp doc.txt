@@ -24,3 +24,5 @@ author: piyaah m
 10. added video call feature with 15 person
 
 11. creating community in whatsapp
+
+12. Sent to the picture/video HD Quality
